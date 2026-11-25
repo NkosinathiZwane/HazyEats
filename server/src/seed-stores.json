@@ -1,0 +1,346 @@
+[
+ {
+  "id": "kfc",
+  "name": "KFC",
+  "category": "Fast food",
+  "eta": "30–45 min",
+  "isCommunity": false,
+  "logo": "https://thumb.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/3840px-KFC_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "menu": [
+   {
+    "name": "Streetwise 2 with Chips",
+    "priceCents": 4690
+   },
+   {
+    "name": "Streetwise 3 with Pap/Chips",
+    "priceCents": 6290
+   },
+   {
+    "name": "9 Piece Family Treat Bucket",
+    "priceCents": 18990
+   },
+   {
+    "name": "Zinger Wings (10 pcs)",
+    "priceCents": 7990
+   }
+  ]
+ },
+ {
+  "id": "debonairs",
+  "name": "Debonairs Pizza",
+  "category": "Pizza",
+  "eta": "35–50 min",
+  "isCommunity": false,
+  "logo": "https://play-lh.googleusercontent.com/YEEX7Yr2rUJehodZI9I8a-UPG8aWLF3btcN0fKsSGh87bCu3qVaFW_VPVDK1CvkgU56TLqYqtuW7ndoaza589Q",
+  "menu": [
+   {
+    "name": "Large Crammed-Crust Triple-Decker",
+    "priceCents": 18990
+   },
+   {
+    "name": "Large Something Meaty Pizza",
+    "priceCents": 14990
+   },
+   {
+    "name": "Medium Chicken & Mushroom",
+    "priceCents": 9990
+   }
+  ]
+ },
+ {
+  "id": "mcdonalds",
+  "name": "McDonald's",
+  "category": "Fast food",
+  "eta": "30–45 min",
+  "isCommunity": false,
+  "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/3840px-McDonald%27s_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+  "menu": [
+   {
+    "name": "Big Mac Medium Meal",
+    "priceCents": 8490
+   },
+   {
+    "name": "McFeast Spicy Meal",
+    "priceCents": 9690
+   },
+   {
+    "name": "20 Chicken McNuggets Sharebox",
+    "priceCents": 11490
+   }
+  ]
+ },
+ {
+  "id": "romans",
+  "name": "Roman's Pizza",
+  "category": "Pizza",
+  "eta": "35–50 min",
+  "isCommunity": false,
+  "logo": "https://play-lh.googleusercontent.com/eC59UkNel1D2TEYZEBdJHTEhAe_bt4i-U2tYRJ6Aq8UDpgNtO6iFb-QTfHZ6MnEEgcAbWR1ZJ63HvQD-ab6V",
+  "menu": [
+   {
+    "name": "Large Double Cheese & Pepperoni",
+    "priceCents": 12990
+   },
+   {
+    "name": "Large Chicken Mayo Pizza",
+    "priceCents": 13490
+   }
+  ]
+ },
+ {
+  "id": "spur",
+  "name": "Spur",
+  "category": "Restaurant",
+  "eta": "40–55 min",
+  "isCommunity": false,
+  "logo": "https://spurcorporation.com/wp-content/uploads/2024/02/Spur-Transparent.png",
+  "menu": [
+   {
+    "name": "Cheddamelt Schnitzel & Chips",
+    "priceCents": 13990
+   },
+   {
+    "name": "400g Full Rack Pork Ribs",
+    "priceCents": 21990
+   }
+  ]
+ },
+ {
+  "id": "steers",
+  "name": "Steers",
+  "category": "Fast food",
+  "eta": "30–45 min",
+  "isCommunity": false,
+  "logo": "https://cavendish.co.za/wp-content/uploads/Steers.jpg",
+  "menu": [
+   {
+    "name": "King Steer Burger & Medium Chips",
+    "priceCents": 9490
+   },
+   {
+    "name": "Wacky Wednesday 2 Burgers Deal",
+    "priceCents": 6990
+   }
+  ]
+ },
+ {
+  "id": "chickenlicken",
+  "name": "Chicken Licken",
+  "category": "Fast food",
+  "eta": "30–45 min",
+  "isCommunity": false,
+  "logo": "https://chickenlicken.co.za/images/CL-small-logo.svg",
+  "menu": [
+   {
+    "name": "Hotwings Max 8 pcs & Soul Fries",
+    "priceCents": 7800
+   },
+   {
+    "name": "Soul Sister Party 6 pcs",
+    "priceCents": 9500
+   },
+   {
+    "name": "Big John Burger Meal",
+    "priceCents": 5400
+   }
+  ]
+ },
+ {
+  "id": "burgerking",
+  "name": "Burger King",
+  "category": "Fast food",
+  "eta": "30–45 min",
+  "isCommunity": false,
+  "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Burger_King_logo_%281999%E2%80%932020%29.svg/1280px-Burger_King_logo_%281999%E2%80%932020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+  "menu": [
+   {
+    "name": "Whopper Medium Meal",
+    "priceCents": 8990
+   },
+   {
+    "name": "Big King XXL Meal",
+    "priceCents": 10990
+   }
+  ]
+ },
+ {
+  "id": "spar",
+  "name": "Spar Hazyview",
+  "category": "Groceries",
+  "eta": "40–55 min",
+  "isCommunity": false,
+  "logo": "https://thespargroup.com/wp-content/uploads/photo-gallery/SPAR_Vertical_Logo.jpeg?bwg=1544795791",
+  "menu": [
+   {
+    "name": "Spar Famous Large Hot Slap Chips",
+    "priceCents": 3200
+   },
+   {
+    "name": "Full Rotisserie Grilled Chicken",
+    "priceCents": 9490
+   },
+   {
+    "name": "2L Coca-Cola + Fresh Bread Bundle",
+    "priceCents": 4400
+   }
+  ]
+ },
+ {
+  "id": "wimpy",
+  "name": "Wimpy",
+  "category": "Fast food",
+  "eta": "35–50 min",
+  "isCommunity": false,
+  "logo": "https://wimpy.co.za/site/images/svg-elements/wimpy-logo-red.svg",
+  "menu": [
+   {
+    "name": "Champion Breakfast & Filter Coffee",
+    "priceCents": 7990
+   },
+   {
+    "name": "Double Cheese Burger & Chips",
+    "priceCents": 9290
+   }
+  ]
+ },
+ {
+  "id": "woolworths",
+  "name": "Woolworths Food",
+  "category": "Groceries",
+  "eta": "40–60 min",
+  "isCommunity": false,
+  "logo": "https://1000logos.net/wp-content/uploads/2018/07/Woolworths-Logo.jpg",
+  "menu": [
+   {
+    "name": "Butter Chicken & Basmati Rice Meal",
+    "priceCents": 8990
+   },
+   {
+    "name": "Chuckle Milk 1L + Belgian Chocolate",
+    "priceCents": 7490
+   }
+  ]
+ },
+ {
+  "id": "oceanbasket",
+  "name": "Ocean Basket",
+  "category": "Restaurant",
+  "eta": "40–55 min",
+  "isCommunity": false,
+  "logo": "https://www.oceanbasket.com/wp-content/uploads/2022/09/square-logo.png",
+  "menu": [
+   {
+    "name": "Famous Fish & Chips (Hake)",
+    "priceCents": 9900
+   },
+   {
+    "name": "Platter for 1 (Prawns, Hake, Calamari)",
+    "priceCents": 16500
+   }
+  ]
+ },
+ {
+  "id": "pioneers",
+  "name": "Pioneers Grill",
+  "category": "Restaurant",
+  "eta": "35–50 min",
+  "isCommunity": false,
+  "logo": "",
+  "menu": [
+   {
+    "name": "300g Flame-Grilled Rump Steak",
+    "priceCents": 15500
+   },
+   {
+    "name": "Peri-Peri Half Chicken & Chips",
+    "priceCents": 11500
+   }
+  ]
+ },
+ {
+  "id": "kuka",
+  "name": "Kuka Cafe",
+  "category": "Restaurant",
+  "eta": "35–50 min",
+  "isCommunity": false,
+  "logo": "",
+  "menu": [
+   {
+    "name": "Gourmet Wagyu Burger & Wedges",
+    "priceCents": 12500
+   },
+   {
+    "name": "Creamy Chicken Pasta",
+    "priceCents": 11000
+   }
+  ]
+ },
+ {
+  "id": "zakheles",
+  "name": "Zakhele's Kota & Chips",
+  "category": "Community",
+  "eta": "25–40 min",
+  "isCommunity": true,
+  "logo": "",
+  "menu": [
+   {
+    "name": "Classic Kota (Polony, Cheese, Chips, Atchar)",
+    "priceCents": 2500
+   },
+   {
+    "name": "Special Kota (Russian, Egg, Cheese, Chips)",
+    "priceCents": 3500
+   },
+   {
+    "name": "Full House King Kota (Beef Patty, Russian, Cheese)",
+    "priceCents": 4500
+   },
+   {
+    "name": "Small Slap Chips",
+    "priceCents": 2500
+   },
+   {
+    "name": "Medium Slap Chips",
+    "priceCents": 3500
+   },
+   {
+    "name": "Large Slap Chips",
+    "priceCents": 4500
+   },
+   {
+    "name": "330ml Soft Drink Can",
+    "priceCents": 1500
+   }
+  ]
+ },
+ {
+  "id": "mamazodwa",
+  "name": "Mama Zodwa's Kitchen",
+  "category": "Community",
+  "eta": "25–40 min",
+  "isCommunity": true,
+  "logo": "",
+  "menu": [
+   {
+    "name": "Kasi Fries & Russian Plate",
+    "priceCents": 3500
+   },
+   {
+    "name": "Mama Zodwa Loaded Kota",
+    "priceCents": 4000
+   },
+   {
+    "name": "Pap & Grilled Beef + Chakalaka Plate",
+    "priceCents": 5500
+   },
+   {
+    "name": "Rice, Pork & Chicken Mixture Plate",
+    "priceCents": 6500
+   },
+   {
+    "name": "2L Assorted Soft Drink",
+    "priceCents": 2800
+   }
+  ]
+ }
+]
